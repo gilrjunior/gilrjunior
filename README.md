@@ -11,6 +11,7 @@
   <img align="center" alt="Gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gil-C" height="30" width="40" src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4">
+  <img align="center" alt="Gil-Java" height="30" width="40" src="https://www.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png">
 </div>
   
   ##

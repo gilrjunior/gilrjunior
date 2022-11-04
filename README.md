@@ -1,4 +1,4 @@
-## Hi, I'm Gilmar Júnior, computer engineering student!
+## Hi, I'm computer engineering student!
 
 <div align="center">
   

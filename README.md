@@ -20,7 +20,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/gilrjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "gilmar.junior@estudante.iftm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-
+  <a href="https://www.linkedin.com/in/gilmar-dos-reis-j%C3%BAnior-589a0a255/"> <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://instagram.com/gilrjunior" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+  <a href = "gilmar.junior@estudante.iftm.edu.br"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
 </div>

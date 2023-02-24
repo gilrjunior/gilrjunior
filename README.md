@@ -17,7 +17,7 @@
   <img align="center" alt="Gil-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </div>
   
-  ##
+<hr> 
  
 <div> 
   <a href="https://www.linkedin.com/in/gilmar-dos-reis-j%C3%BAnior-589a0a255/"> <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>

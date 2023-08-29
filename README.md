@@ -1,4 +1,4 @@
-## <p align="center">Seja bem-vindo ao meu portifólio!</p>
+## <p align="center">Seja bem-vindo ao meu portfólio!</p>
 
 <div align="center">
   

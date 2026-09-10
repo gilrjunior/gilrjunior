@@ -34,7 +34,7 @@ class GilmarJunior:
         self.local    = "Uberaba - MG 🇧🇷"
         self.cargo    = "Tech Lead · Líder Técnico Funcional SAP"
         self.foco     = ["Integrações SAP", "Automação de processos", "Liderança técnica"]
-        self.paixoes  = ["Inteligência Artificial", "Otimização", "Compiladores", "Automação"]
+        self.paixoes  = ["Inteligência Artificial", "Otimização", "Automação"]
 
     def dizer_oi(self):
         return "Bora construir algo legal? 🚀"
@@ -44,7 +44,7 @@ class GilmarJunior:
 - 🧭 **Tech Lead** de um time funcional **SAP**: fui de estagiário a líder técnico em pouco mais de 2 anos
 - 💼 Atuo com **integrações SAP**: consultoria funcional (SD/MM/J1BTAX), **ABAP**, análise de payloads (JSON/XML) e **automação de processos**
 - 🧠 Apaixonado por **IA clássica**: algoritmos genéticos, redes neurais (MLP, CNN, Madaline) e lógica fuzzy
-- ⚙️ Gosto de entender como as coisas funcionam por baixo: **compiladores**, protocolos e integrações
+- ⚙️ Gosto de entender como as coisas funcionam por baixo: protocolos, payloads e o que acontece dentro do ERP
 - 🐍 **Python** e **Ruby on Rails** no dia a dia, e circulo bem entre **Java**, **JavaScript/TypeScript** e **ABAP**
 - 🎤 Curto falar em público: cursos de **oratória**, **apresentações de alto impacto** e **gestão ágil de projetos**
 
@@ -161,8 +161,17 @@ timeline
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gilrjunior&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilrjunior&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilrjunior&theme=tokyonight" alt="Resumo do perfil" width="100%" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilrjunior&theme=tokyonight" alt="Repositórios por linguagem" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilrjunior&theme=tokyonight" alt="Linguagens com mais commits" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilrjunior&theme=tokyonight" alt="Estatísticas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gilrjunior&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
 </div>
 
 <div align="center">

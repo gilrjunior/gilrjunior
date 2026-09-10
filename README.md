@@ -52,6 +52,10 @@ class GilmarJunior:
 
 ## 🧭 Trajetória
 
+<details>
+<summary><b>🗺️ De estagiário a Tech Lead</b> — clique para ver a linha do tempo</summary>
+<br/>
+
 ```mermaid
 timeline
     title De estagiário a Tech Lead
@@ -64,6 +68,8 @@ timeline
     2026 : Líder Técnico Funcional SAP
          : liderança de equipe + automação
 ```
+
+</details>
 
 <details>
 <summary><b>📜 Certificações</b> — clique para ver</summary>
@@ -120,70 +126,10 @@ timeline
 
 <br/>
 
-## 🚀 Projetos em destaque
-
-<details open>
-<summary><b>🧬 Inteligência Artificial</b> — clique para expandir</summary>
-<br/>
-
-| Projeto | Descrição | Tech |
-| :-- | :-- | :--: |
-| [🗓️ Gerador de grade horária](https://github.com/gilrjunior/genetic_algorithm_timetable_generator_AI) | Algoritmo genético que monta grades horárias sem conflito de professores, turmas e salas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [🗺️ Caixeiro viajante (TSP)](https://github.com/gilrjunior/tsp_genetic_algorithm_AI) | Solução aproximada do TSP com seleção, crossover e mutação | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [📈 Maximizador de funções](https://github.com/gilrjunior/genetic_algorithm_function_maximizer_AI) | Encontra máximos de funções com algoritmo genético | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [🖼️ Reconhecimento de imagens (CNN)](https://github.com/gilrjunior/image_recognition_with_convolutional_neural_network_AI) | Rede neural convolucional para classificação de imagens | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [✍️ Dígitos manuscritos (MLP)](https://github.com/gilrjunior/handwritten_digit_recognition_multilayer_perceptron_AI) | Perceptron multicamadas reconhecendo dígitos escritos à mão | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [📐 Aproximação de funções (MLP)](https://github.com/gilrjunior/function_approximation_multilayer_perceptron_AI) | MLP aprendendo a aproximar funções matemáticas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [🔤 Reconhecedor de letras (Madaline)](https://github.com/gilrjunior/madaline-letter-recognizer-AI) | Rede Madaline reconhecendo letras | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [🌫️ Lógica Fuzzy](https://github.com/gilrjunior/fuzzy) | Sistema de inferência fuzzy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [⚽ Escartola GA](https://github.com/gilrjunior/escartola_ga_ai) | Algoritmo genético escalando o time ideal do Cartola FC | ![HTML](https://img.shields.io/badge/-HTML/JS-E34F26?logo=html5&logoColor=white) |
-
-</details>
-
-<details>
-<summary><b>🛠️ Outros projetos</b> — compiladores, web e automação</summary>
-<br/>
-
-| Projeto | Descrição | Tech |
-| :-- | :-- | :--: |
-| [⚙️ Compiladores](https://github.com/gilrjunior/compiladores) | Analisador léxico, sintático e semântico construído na disciplina de Compiladores | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| [🃏 Calculadora Joker](https://github.com/gilrjunior/calculadora_joker) | Calculadora web com uma pegada diferente | ![HTML](https://img.shields.io/badge/-HTML/JS-E34F26?logo=html5&logoColor=white) |
-| [🏕️ Basecamp Script](https://github.com/gilrjunior/basecamp_script) | Automação com a API do Basecamp | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [🍽️ MVP Restaurante](https://github.com/gilrjunior/mvp_restaurante) | MVP de sistema para restaurante | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [🔗 Case Integração](https://github.com/gilrjunior/caseintegracao) | Estudo de caso de integração entre sistemas | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [✅ To-do List Rails](https://github.com/gilrjunior/todo_list_rails) | Lista de tarefas em Ruby on Rails | ![Ruby](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=white) |
-| [📱 Avaliação Kotlin](https://github.com/gilrjunior/avaliacao_kotlin) | App Android em Kotlin | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-
-</details>
-
-<br/>
-
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilrjunior&theme=tokyonight" alt="Resumo do perfil" width="100%" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilrjunior&theme=tokyonight" alt="Repositórios por linguagem" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilrjunior&theme=tokyonight" alt="Linguagens com mais commits" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilrjunior&theme=tokyonight" alt="Estatísticas" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" />
-</div>
-
-<br/>
-
-## 🐍 A cobra que come meus commits
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilrjunior/gilrjunior/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilrjunior/gilrjunior/output/github-snake.svg" />
-    <img alt="Animação da cobra comendo as contribuições" src="https://raw.githubusercontent.com/gilrjunior/gilrjunior/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" />
 </div>
 
 <br/>

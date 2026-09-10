@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Gilmar Júnior — Tech Lead · Engenheiro de Computação · SAP · Automação · IA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="55%" stop-color="#2f334d"/>
+      <stop offset="100%" stop-color="#7aa2f7"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7dcfff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c0caf5"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="1200" height="280" rx="18" ry="18"/>
+    </clipPath>
+    <style>
+      .title { font: 700 66px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 1px; }
+      .sub   { font: 500 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3px; }
+      .chip  { font: 600 15px "Fira Code", "JetBrains Mono", Consolas, monospace; }
+      .grid  { stroke: #ffffff; stroke-opacity: 0.05; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+
+    <!-- grade sutil de fundo -->
+    <g class="grid">
+      <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200M0 240H1200"/>
+      <path d="M100 0V280M200 0V280M300 0V280M400 0V280M500 0V280M600 0V280M700 0V280M800 0V280M900 0V280M1000 0V280M1100 0V280"/>
+    </g>
+
+    <!-- ondas (animação suave, texto sempre visível) -->
+    <g>
+      <path fill="url(#wave1)" d="M0 200 C 200 150, 350 250, 600 200 S 1000 150, 1200 210 V280 H0 Z">
+        <animate attributeName="d" dur="9s" repeatCount="indefinite"
+          values="M0 200 C 200 150, 350 250, 600 200 S 1000 150, 1200 210 V280 H0 Z;
+                  M0 215 C 250 250, 400 150, 650 205 S 950 260, 1200 190 V280 H0 Z;
+                  M0 200 C 200 150, 350 250, 600 200 S 1000 150, 1200 210 V280 H0 Z"/>
+      </path>
+      <path fill="url(#wave2)" d="M0 230 C 300 190, 500 270, 800 225 S 1100 200, 1200 240 V280 H0 Z">
+        <animate attributeName="d" dur="12s" repeatCount="indefinite"
+          values="M0 230 C 300 190, 500 270, 800 225 S 1100 200, 1200 240 V280 H0 Z;
+                  M0 240 C 250 270, 550 200, 850 245 S 1050 270, 1200 220 V280 H0 Z;
+                  M0 230 C 300 190, 500 270, 800 225 S 1100 200, 1200 240 V280 H0 Z"/>
+      </path>
+    </g>
+
+    <!-- textos -->
+    <text x="600" y="118" text-anchor="middle" class="title" fill="url(#title)">Gilmar Júnior</text>
+    <text x="600" y="160" text-anchor="middle" class="sub" fill="#c0caf5">TECH LEAD · ENGENHEIRO DE COMPUTAÇÃO</text>
+
+    <!-- chips -->
+    <g class="chip" fill="#e0e6ff">
+      <rect x="371" y="186" width="122" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="432" y="209" text-anchor="middle">SAP · ABAP</text>
+
+      <rect x="505" y="186" width="160" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="585" y="209" text-anchor="middle">AUTOMAÇÃO</text>
+
+      <rect x="677" y="186" width="152" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="753" y="209" text-anchor="middle">IA · PYTHON</text>
+    </g>
+  </g>
+</svg>

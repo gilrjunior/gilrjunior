@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Gilmar%20J%C3%BAnior&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%C2%B7%20Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%C2%B7%20SAP%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IA&descAlignY=60&descSize=20&descColor=c0caf5" width="100%" alt="Gilmar Júnior" />
+  <img src="assets/header.svg" width="100%" alt="Gilmar Júnior — Tech Lead · Engenheiro de Computação · SAP · Automação · IA" />
 </div>
 
 <div align="center">
@@ -207,5 +207,5 @@ Curte IA, integrações ou só quer trocar uma ideia sobre código? Me chama! �
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>

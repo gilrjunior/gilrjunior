@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Gilmar%20J%C3%BAnior&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Tech%20Lead%20%C2%B7%20Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%C2%B7%20SAP%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IA&descAlignY=60&descSize=20&descColor=c0caf5" width="100%" alt="Gilmar Júnior" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Gilmar%20J%C3%BAnior&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%C2%B7%20Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%C2%B7%20SAP%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IA&descAlignY=60&descSize=20&descColor=c0caf5" width="100%" alt="Gilmar Júnior" />
 </div>
 
 <div align="center">
@@ -171,11 +171,7 @@ timeline
 
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilrjunior&theme=tokyonight" alt="Estatísticas" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gilrjunior&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR" alt="Sequência de contribuições" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 <br/>

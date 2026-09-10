@@ -171,7 +171,7 @@ timeline
 
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilrjunior&theme=tokyonight" alt="Estatísticas" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR" alt="Sequência de contribuições" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=gilrjunior&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" />
 </div>
 
 <br/>
